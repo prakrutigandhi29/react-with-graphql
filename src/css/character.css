@@ -1,0 +1,11 @@
+.character{
+    display: flex;
+}
+
+.characterDetails{
+    margin-left: 2rem;
+}
+
+.characterEpisode{
+    margin-top:2rem;
+}
